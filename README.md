@@ -13,8 +13,6 @@ This is a simple web-based calculator built using Flask.
 │── app.py
 │── /templates/
 │   ├── calculator.html
-│── /static/
-│   ├── styles.css (if needed)
 │── README.md
 ```
 
@@ -22,7 +20,7 @@ This is a simple web-based calculator built using Flask.
 1. Clone the repository or create the necessary files.
 ```bash
 git clone <repository_url>
-cd flask_calculator
+cd mycalculator
 ```
 
 2. Install Flask (if not installed already):
